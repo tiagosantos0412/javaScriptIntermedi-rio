@@ -1,1 +1,1 @@
-# javaScriptIntermedi-rio
+# javaScriptIntermediario
